@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C1FF&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;Computer+Science+Student;Software+Engineer+Intern;Always+Eager+To+Learn+New+Things" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
+<h4 align="center">
 🚀 Hey there! Maimoona Akhter, on a mission to conquer the digital world as a future front-end developer! 💻  
 HTML, CSS, and JavaScript under my belt, I'm ready to craft captivating user experiences and bring designs to life. 🎨 Creating sleek layouts with CSS, I thrive on problem-solving in JS and turning ideas into reality. 🌟 
 
 I've recently started diving into React basics, adding a powerful tool to my development arsenal. With React, I'm eager to build dynamic and responsive web applications that offer seamless user interactions. The journey of learning React has been exhilarating, and I can't wait to leverage its component-based architecture to create efficient and maintainable code.
 
 Beyond coding, I'm always looking to collaborate with like-minded individuals and explore new technologies that push the boundaries of what's possible on the web. Let's embark on this coding journey together! 🌟
-</h3>
+</h4>
 ---
 
 #CodeNewbie #FrontendDevInProgress #FutureWebDeveloper #GirlsWhoCode  
