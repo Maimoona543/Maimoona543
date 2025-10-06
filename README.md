@@ -28,6 +28,8 @@ Beyond coding, I enjoy learning from others, staying curious, and constantly pus
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
 
 ---
 
@@ -35,12 +37,16 @@ Beyond coding, I enjoy learning from others, staying curious, and constantly pus
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
+[![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
+[![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
 
 ---
 
 ### 👉 Databases & Cloud Hosting
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222?style=for-the-badge&logo=github)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Maimoona543/Maimoona543/blob/main/README.md)
 
 ---
 
@@ -51,6 +57,7 @@ Beyond coding, I enjoy learning from others, staying curious, and constantly pus
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
@@ -85,3 +92,4 @@ Beyond coding, I enjoy learning from others, staying curious, and constantly pus
 </p>
 
 > credit: [Maimoona Akhter](https://github.com/Maimoona543)  
+
